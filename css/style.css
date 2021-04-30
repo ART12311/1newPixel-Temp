@@ -599,12 +599,12 @@ header .menu-btn {
   background: -webkit-linear-gradient(
     180deg,
     #151515 0%,
-    #151515 100%
+    #151515 0%
   );
-  background: -moz-linear-gradient(180deg,#151515 0%,#151515 100%);
-  background: -ms-linear-gradient(180deg,#151515 0%,#151515 100%);
-  background: -o-linear-gradient(180deg,#151515 0%,#151515 100%);
-  background: linear-gradient(180deg,#151515 0%,#151515 100%);
+  background: -moz-linear-gradient(180deg,#151515 0%,#151515 0%);
+  background: -ms-linear-gradient(180deg,#151515 0%,#151515 0%);
+  background: -o-linear-gradient(180deg,#151515 0%,#151515 0%);
+  background: linear-gradient(180deg,#151515 0%,#151515 0%);
 }
 .service-col {
   background: -webkit-linear-gradient(
@@ -617,9 +617,9 @@ header .menu-btn {
     #151515 0%,
     #151515 100%
   );
-  background: -ms-linear-gradient(180deg,#151515 0%,#151515 100%);
-  background: -o-linear-gradient(180deg,#151515 0%,#151515 100%);
-  background: linear-gradient(180deg,#151515 0%,#151515 100%);
+  background: -ms-linear-gradient(180deg,#151515 0%,#151515 0%);
+  background: -o-linear-gradient(180deg,#151515 0%,#151515 0%);
+  background: linear-gradient(180deg,#151515 0%,#151515 0%);
   padding: 50px 30px 125px;
   text-align: center;
 }
@@ -838,12 +838,12 @@ header .menu-btn {
   background: -webkit-linear-gradient(
     180deg,
     #151515 0%,
-    #151515 100%
+    #151515 0%
   );
-  background: -moz-linear-gradient(180deg,#151515 0%,#151515 100%);
-  background: -ms-linear-gradient(180deg,#151515 0%,#151515 100%);
-  background: -o-linear-gradient(180deg,#151515 0%,#151515 100%);
-  background: linear-gradient(180deg,#151515 0%,#151515 100%);
+  background: -moz-linear-gradient(180deg,#151515 0%,#151515 0%);
+  background: -ms-linear-gradient(180deg,#151515 0%,#151515 0%);
+  background: -o-linear-gradient(180deg,#151515 0%,#151515 0%);
+  background: linear-gradient(180deg,#151515 0%,#151515 0%);
 }
 .without-carousel .service-col > h3 {
   padding: 0 90px;
