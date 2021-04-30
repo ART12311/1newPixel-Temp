@@ -615,7 +615,7 @@ header .menu-btn {
   background: -moz-linear-gradient(
     180deg,
     #151515 0%,
-    #151515 100%
+    #151515 0%
   );
   background: -ms-linear-gradient(180deg,#151515 0%,#151515 0%);
   background: -o-linear-gradient(180deg,#151515 0%,#151515 0%);
