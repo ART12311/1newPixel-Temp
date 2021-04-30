@@ -595,6 +595,7 @@ header .menu-btn {
 .services-section .row .col-lg-3 {
   padding: 0;
 }
+/*
 .services-section .row .col-lg-3:nth-child(even) .service-col {
   background: -webkit-linear-gradient(
     180deg,
@@ -623,6 +624,7 @@ header .menu-btn {
   padding: 50px 30px 125px;
   text-align: center;
 }
+*/
 .svs-icon {
   width: 130px;
   height: 130px;
@@ -834,6 +836,7 @@ header .menu-btn {
 .without-carousel .row .col-lg-4 {
   padding: 0;
 }
+/*
 .without-carousel .row .col-lg-4:nth-child(even) .service-col {
   background: -webkit-linear-gradient(
     180deg,
@@ -845,6 +848,8 @@ header .menu-btn {
   background: -o-linear-gradient(180deg,#151515 0%,#151515 0%);
   background: linear-gradient(180deg,#151515 0%,#151515 0%);
 }
+*/
+
 .without-carousel .service-col > h3 {
   padding: 0 90px;
 }
